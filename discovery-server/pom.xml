@@ -36,11 +36,7 @@
         <url>http://BhitsBuild03/</url>
     </ciManagement>
 
-    <scm>
-        <url>https://github.com/BHITS/discovery-server</url>
-        <connection>scm:git:${project.scm.url}.git</connection>
-        <developerConnection>scm:git:${project.scm.url}.git</developerConnection>
-    </scm>
+
 
     <parent>
         <groupId>org.springframework.boot</groupId>
