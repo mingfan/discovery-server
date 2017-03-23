@@ -5,4 +5,4 @@ VOLUME /java
 COPY target/discovery-server-0.10.0-SNAPSHOT.jar /discovery-server.jar
 ENV JAR_FILE discovery-server.jar
 
-EXPOSE 8761
+EXPOSE 80
