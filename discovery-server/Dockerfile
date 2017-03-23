@@ -4,5 +4,7 @@ VOLUME /java
 # Copy application jar to container, argument is defined in pom.xml
 COPY target/discovery-server-0.10.0-SNAPSHOT.jar /
 
+EXPOSE 8761
+
 # Default active docker profile
 ENV DEFAULT_PROGRAM_ARGS --spring.profiles.active=docker
