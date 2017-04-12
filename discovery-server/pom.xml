@@ -9,6 +9,10 @@
     <name>Service Discovery Server</name>
     <description>Service Discovery Server for C2S Applications</description>
     <url>${project.scm.url}</url>
+         
+         
+         
+         
     <organization>
         <name>SAMHSA</name>
         <url>http://www.samhsa.gov/</url>
