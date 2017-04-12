@@ -7,6 +7,8 @@
     <artifactId>discovery-server</artifactId>
     <version>0.10.0-Releases</version>
     <packaging>jar</packaging>
+         
+         
     <name>Service Discovery Server</name>
     <description>Service Discovery Server for C2S Applications</description>
     <url>${project.scm.url}</url>
